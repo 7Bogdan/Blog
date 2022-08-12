@@ -1,0 +1,15 @@
+.post__view {
+  width: 60%;
+  padding: 20px;
+  margin: auto;
+  border: 1px solid black;
+  border-radius: 0 15px 0 15px;
+}
+
+.post__view__addComm {
+  display: flex;
+  padding: 20px;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+  justify-content: center;
+}

@@ -1,0 +1,27 @@
+ul.nav__list {
+  display: flex;
+  justify-content: center;
+  margin: auto;
+  padding: 4px;
+}
+
+ul.nav__list li {
+  display: inline;
+  background: #8080808a;
+  margin-right: 15px;
+  border: 1px solid #000;
+  border-radius: 15px 0 15px 0;
+  padding: 15px;
+  cursor: pointer;
+}
+a {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+  color: red;
+}
+
+.home {
+  text-align: center;
+}

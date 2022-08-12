@@ -1,0 +1,37 @@
+.COU__title {
+  font-size: 20px;
+  width: 80%;
+  display: block;
+  margin: auto;
+  text-align: center;
+}
+
+.COU__title:focus {
+  text-align: left;
+}
+
+.COU__title__lable {
+  font-size: 30px;
+  display: block;
+  text-align: center;
+  margin: 20px;
+}
+
+.COU__text {
+  font-size: 18px;
+  width: 90%;
+  display: block;
+  margin: auto;
+  text-align: center;
+}
+
+.COU__text:focus {
+  text-align: left;
+}
+
+.COU__text__lable {
+  font-size: 28px;
+  display: block;
+  text-align: center;
+  margin: 20px;
+}

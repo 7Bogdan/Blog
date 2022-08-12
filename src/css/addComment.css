@@ -1,0 +1,27 @@
+.add__comment {
+  width: 100%;
+}
+
+.add__comment__input {
+  width: 50%;
+  border: 2px solid #000;
+  border-radius: 10px 0 0 10px;
+  cursor: pointer;
+  font-size: 16px;
+  outline: none;
+  padding: 9px;
+}
+
+.add__comment__label {
+  font-size: 22px;
+  letter-spacing: 0.1rem;
+}
+
+.add__comment__button {
+  background: #b8b8b863;
+  height: 40px;
+  padding: 0 15px;
+  border: 2px solid #000;
+  border-radius: 0 10px 10px 0;
+  cursor: pointer;
+}

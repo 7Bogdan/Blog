@@ -1,0 +1,9 @@
+.post__title {
+  text-align: center;
+  letter-spacing: .2rem;
+  text-decoration: underline;
+}
+
+.post__body {
+  letter-spacing: .1rem;
+}

@@ -1,0 +1,9 @@
+.item__comment{
+  font-size: 18px;
+  padding-left: 10px;
+  border-bottom: 1px solid black;
+}
+
+.item__comment__body {
+  margin-bottom: 2px;
+}

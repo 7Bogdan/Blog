@@ -1,0 +1,16 @@
+.posts__item {
+  margin: 10px auto ;
+  padding: 20px;
+  width: 50%;
+  background: #e1e1e15c;
+  border: 1px solid grey;
+  border-radius: 15px 0 15px 0;
+}
+
+.posts__item__button{
+  background-color: white;
+  margin-right: 15px;
+  padding: 5px 15px;
+  border: 1px solid black;
+  border-radius: 0 15px 0 15px;
+}
